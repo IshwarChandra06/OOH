@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "distributionBase",
+    "type": "java.lang.String",
+    "description": "A description for 'distributionBase'"
+  },
+  {
+    "name": "distributionPath",
+    "type": "java.lang.String",
+    "description": "A description for 'distributionPath'"
+  },
+  {
+    "name": "distributionUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'distributionUrl'"
+  },
+  {
+    "name": "zipStoreBase",
+    "type": "java.lang.String",
+    "description": "A description for 'zipStoreBase'"
+  },
+  {
+    "name": "zipStorePath",
+    "type": "java.lang.String",
+    "description": "A description for 'zipStorePath'"
+  },
+  {
+    "name": "zipStorePath",
+    "type": "java.lang.String",
+    "description": "A description for 'zipStorePath'"
+  },
+  {
+    "name": "zipStorePath",
+    "type": "java.lang.String",
+    "description": "A description for 'zipStorePath'"
+  },
+  {
+    "name": "azure.activedirectory.tenant-id",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.activedirectory.tenant-id'"
+  },
+  {
+    "name": "azure.activedirectory.session-stateless",
+    "type": "java.lang.String",
+    "description": "A description for 'azure.activedirectory.session-stateless'"
+  },
+  {
+    "name": "ftp.username",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.username'"
+  },
+  {
+    "name": "ftp.password",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.password'"
+  },
+  {
+    "name": "ftp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.port'"
+  },
+  {
+    "name": "server.path",
+    "type": "java.lang.String",
+    "description": "A description for 'server.path'"
+  },
+  {
+    "name": "ftp.host",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.host'"
+  },
+  {
+    "name": "mail.fromMail",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.fromMail'"
+  },
+  {
+    "name": "mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.password'"
+  },
+  {
+    "name": "server.local.path",
+    "type": "java.lang.String",
+    "description": "A description for 'server.local.path'"
+  }
+]}
